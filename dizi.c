@@ -31,6 +31,7 @@ int main()
         printf("%d ",anadizi[a]);
     }
 
+
     return 0;
 }
 
