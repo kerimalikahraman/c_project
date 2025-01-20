@@ -6,6 +6,7 @@ int sayimukemmelmi(int sayi);
 int main()
 {
     int sayi;
+    
 
     printf("mukemmel olup olmadiğini öğrenmek istediğiniz sayiyi gir");
     scanf("%d", &sayi);
